@@ -1,0 +1,8 @@
+{
+  "name": "SkomUA",
+  "description": "Українські переозвучки, фільми, серіали та стендапи",
+  "manifestVersion": 1,
+  "pluginLists": [
+    "https://raw.githubusercontent.com/girilovsky/cloudstream-skomua/builds/plugins.json"
+  ]
+}
